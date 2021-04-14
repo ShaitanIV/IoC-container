@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Mini IoC container\bin\Debug\netcoreapp3.1\Mini IoC container.exe
+C:\Users\User\source\repos\Mini IoC container\bin\Debug\netcoreapp3.1\Mini IoC container.deps.json
+C:\Users\User\source\repos\Mini IoC container\bin\Debug\netcoreapp3.1\Mini IoC container.runtimeconfig.json
+C:\Users\User\source\repos\Mini IoC container\bin\Debug\netcoreapp3.1\Mini IoC container.runtimeconfig.dev.json
+C:\Users\User\source\repos\Mini IoC container\bin\Debug\netcoreapp3.1\Mini IoC container.dll
+C:\Users\User\source\repos\Mini IoC container\bin\Debug\netcoreapp3.1\Mini IoC container.pdb
+C:\Users\User\source\repos\Mini IoC container\obj\Debug\netcoreapp3.1\Mini IoC container.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Mini IoC container\obj\Debug\netcoreapp3.1\Mini IoC container.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Mini IoC container\obj\Debug\netcoreapp3.1\Mini IoC container.AssemblyInfo.cs
+C:\Users\User\source\repos\Mini IoC container\obj\Debug\netcoreapp3.1\Mini IoC container.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Mini IoC container\obj\Debug\netcoreapp3.1\Mini IoC container.dll
+C:\Users\User\source\repos\Mini IoC container\obj\Debug\netcoreapp3.1\Mini IoC container.pdb
+C:\Users\User\source\repos\Mini IoC container\obj\Debug\netcoreapp3.1\Mini IoC container.genruntimeconfig.cache
